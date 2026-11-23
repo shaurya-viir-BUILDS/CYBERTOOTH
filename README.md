@@ -1,2 +1,2 @@
 # CYBERTOOTH
-The apex cybersecurity scanner
+The Apex Cyber Threat Hunter
